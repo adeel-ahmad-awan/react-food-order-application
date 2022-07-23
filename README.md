@@ -1,5 +1,9 @@
 # Food order App
 
 
-the follosing react concepts are covered in this application
-- 
+This simple application is made in ReactJs.
+
+In this application, the following concepts are reflected.
+
+
+Screen shots
