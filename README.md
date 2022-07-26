@@ -7,6 +7,9 @@ In this application, the following concepts are reflected.
 - React fragments
 - Wrapper UI Components
 - React Portals
+- react useState
+- contextAPI
+- refs
 
 ### Screen shots
 
