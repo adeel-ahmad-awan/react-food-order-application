@@ -33,7 +33,7 @@ UI after ordering.
 ![Screen shot with empty input](screenshots/2.png "Screen shot with empty input")
 
 UI with empty inputs
-![Screen shot with empty input](screenshots/4.png "Screen shot with empty input")
+![Screen shot with empty input](screenshots/3.png "Screen shot with empty input")
 
 
 UI after order completed
